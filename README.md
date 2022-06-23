@@ -57,6 +57,6 @@ MERN E-commerce website
 ![/HOME](https://github.com/Ni2-1911/E-mart/blob/main/Home.jpg)
 
 ## SIGN UP PAGE
-![/SIGN UP]([https://github.com/Ni2-1911/E-mart/blob/main/Home.jpg](https://github.com/Ni2-1911/E-mart/blob/main/SignUp.jpg))
+![/SIGN UP](https://github.com/Ni2-1911/E-mart/blob/main/SignUp.jpg)
 
 
